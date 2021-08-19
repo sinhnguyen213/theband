@@ -150,7 +150,7 @@ html, body {
     margin-top: 46px;
     /* set background cho slider: slider sẽ có background là toàn bộ ảnh */
     /* background: url('../image/slider/slider1.jpg') top center / cover no-repeat; */
-    background: url('/assets/image/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../image/slider/slider1.jpg') top center / cover no-repeat;
     /* set posittion: để cho thẻ con dựa vào vị trí relative này */
     position: relative;
 }
